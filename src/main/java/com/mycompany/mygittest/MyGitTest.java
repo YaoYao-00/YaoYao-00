@@ -14,5 +14,7 @@ public class MyGitTest {
         System.out.println("Hello World!");
         
         // a comment made in netbeans
+
+        // a comment made in GitHub
     }
 }
