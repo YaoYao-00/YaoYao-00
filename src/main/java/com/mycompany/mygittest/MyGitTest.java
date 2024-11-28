@@ -16,5 +16,7 @@ public class MyGitTest {
         // a comment made in netbeans
 
         // a comment made in GitHub
+        
+        // a comment made in a friend branch
     }
 }
